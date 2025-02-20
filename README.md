@@ -8,6 +8,13 @@ This is a simple React Native app that allows users to switch between light mode
 - Changes background color and text color dynamically
 - Utilizes `SafeAreaView` and `SafeAreaProvider` for a smooth UI experience
 
+## Demo Video
+
+[Watch the Demo](https://github.com/user-attachments/assets/213dbb71-70a4-4594-a2c8-4ce821cc4d7c)
+
+
+
+
 ## Installation
 
 ### Prerequisites
